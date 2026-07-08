@@ -20,6 +20,8 @@
 ## Featured Projects
 - 📈 [E-Commerce Sales Analysis](https://github.com/ShabibLiaqat/Ecommerece-sales-analysis) 
   — EDA pipeline using Python and Pandas
+- 🏠 [Ames Housing Price Prediction](https://github.com/ShabibLiaqat/Ames) 
+  — Regression modelling with Scikit-learn
 
 ## Currently
 🔍 Actively looking for Power BI Analyst and Reporting 
